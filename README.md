@@ -1,0 +1,2 @@
+# link.safe
+link.safeya
